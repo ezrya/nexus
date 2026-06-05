@@ -1,0 +1,32 @@
+  $$\                 $$\                         $$\           $$\ 
+  $$ |                $$ |                        \__|          $$ |
+$$$$$$\   $$\   $$\ $$$$$$\    $$$$$$\   $$$$$$\  $$\  $$$$$$\  $$ |
+\_$$  _|  $$ |  $$ |\_$$  _|  $$  __$$\ $$  __$$\ $$ | \____$$\ $$ |
+  $$ |    $$ |  $$ |  $$ |    $$ /  $$ |$$ |  \__|$$ | $$$$$$$ |$$ |
+  $$ |$$\ $$ |  $$ |  $$ |$$\ $$ |  $$ |$$ |      $$ |$$  __$$ |$$ |
+  \$$$$  |\$$$$$$  |  \$$$$  |\$$$$$$  |$$ |      $$ |\$$$$$$$ |$$ |
+   \____/  \______/    \____/  \______/ \__|      \__| \_______|\__|
+
+# How to launch.
+
+1. download the latest ZIP file
+2. drag the ZIP into your desktop
+3. extract the ZIP
+4. double click the main folder
+5. you should see some files and folders
+6. double click the index.html
+7. and it should automatically open your browser
+8. now ur officially in!
+9. click on the screen to activate the game, just once! (it doesnt start at first cause ur not in)
+10. Now look around with your mouse
+11. move with "WASD"
+12. interact with "E"
+13. walk to the vault door to open the bunker and unlock the AI.
+==========================================================================================================================
+# Login?!
+
+**Yes! there is a login. This is cause this file is currently only available for early acces members**
+
+
+
+(🤫 For the smarties out here. There is a secret way to unlock the vault by using your brain.)
