@@ -1,5 +1,5 @@
 # nexus
-# 🏰 Cusum — Advanced AI-Powered Medieval Secret Armory Experience
+# 🏰 Nexus — Advanced AI-Powered Medieval Secret Armory Experience
 
 A highly immersive next-generation medieval game experience powered by advanced AI systems, featuring realistic environments, cinematic sequences, intelligent interactions, and a hidden underground armory inspired by Hunter's Dream.
 
